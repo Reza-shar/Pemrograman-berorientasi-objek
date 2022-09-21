@@ -1,1 +1,47 @@
+Nama  : Mohamad Reza Ashari
+Nim   : 20210040090
+Kelas : TI 21 E
+Matkul : Pemrograman Berorientasi Objek
+                                                       Resume Java new version
+          Java
+  Java adalah bahasa pemrograman populer yang banyak digunakan oleh para developer dalam mengembangkan berbagai aplikasi desktop atau mobile dan website.
+Java dikenal dengan moto "Write Once, Run Anywhere" yang memiliki arti bahwa java adalah bahasa pemrograman yang mampu dijalankan di berbagai platform
+tanpa perlu penyesuaian ulang di platformnya.
+  
+  Java awalnya dibuat oleh James Gosling saat masih bergabung di sun microsystems,  yang saat ini merupakan bagian dari oracle dan dirilis tahun 1995.
+Dari awal Java dibentuk sampai sekarang, sudah banyak versi-versi Java yang dirilis demi memudahkan dan mengupgrade kinerja Java. dari JDK 1.0 yang pertama 
+rilis pada januari 23, 1996, sampai Java SE 11.0.16.1
 
+  Java SE 11.0.16.1 merupakan java version terbaru yang dimana memiliki fitur-fitur yang baru juga, diantaranya :
+            
+            Fitur dan kelebihan dalam Java versi terbaru
+             
+A). Inferention Type untuk parameter lamda
+       anda dapat memilih untuk menentukan jenis parameter 
+       lamda atau menghilangkannya saat menulis ekspresi lamda. 
+
+B) String::lines
+       String::lines yang membantu dalam streaming basis. 
+       String::lines ideal untuk situasi dimana anda memiliki string multiline.
+
+C). Karakter, Skrip, dan Blok baru 
+       Java versi 11 telah menambahkan 128 karakter emoji, 19 simbol ideal untuk standar TV 4K baru,
+       dan tanda bitcoin. anda juga dapat menemukan sepuluh skrip baru dan 18 blok baru.
+
+D). Metode Default.toArray(IntFunction)
+       Metode ini membantu dalam mentransfer elemen dalam koleksi ke array yang baru dibuat 
+       yang memiliki tipe runtime tertentu.
+       
+E). Epsilon Garbage Collection
+       No-Op Garbage Collection ideal untuk menangani hanya alokasi memori tanpa menerapkan peralatan reklamasi memori. 
+       Grabage Collection membantu untuk perbandingan biaya-manfaat dari pengumpul sampah lain dan pengujian kinerja.
+
+F). Metode File Baru
+       Metode file baru termasuk ‘writeString()’ , ‘readString()’ dan ‘isSameFile()’. ‘writeString()’ 
+       ideal untuk menulis beberapa konten dalam file sementara ‘readString()’ ideal untuk membaca konten dalam file. 
+       Metode ‘isSameFile()’ membantu mengetahui apakah dua jalur mengidentifikasi file yang sama.
+
+G). Mekanisme KeyStore yang Ditingkatkan
+       Mekanisme KeyStore yang baru dan lebih baik di Java versi 11 pasti dapat memberikan bukti yang valid untuk itu.
+       Anda dapat menemukan properti keamanan baru dengan nama ‘jceks.key.serialFilter’ di Java versi 11.
+       
